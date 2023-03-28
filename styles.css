@@ -156,8 +156,12 @@ color:pink;
 }
 
 /* about */
-.about{
- padding:2px;
+#about{
+ 
+	display:flex;
+	text-align:center;
+	display-content:center;
+	
 }
 .container{
     height:10%;
