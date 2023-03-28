@@ -267,7 +267,7 @@ p{
     background: linear-gradient(to bottom, #000428, #004683);
 } */
 
-.profile {
+/* .profile {
     margin: 100px;
     align-items: center;
     justify-content: center;
@@ -350,7 +350,7 @@ p{
     font-weight: 200;
     font-size: 0.8rem;
     letter-spacing: 2px;
-}
+} */
 
 .cardp .card-content .social-icons {
     list-style: none;
@@ -381,7 +381,7 @@ p{
     height: 350px;
     width:250px;
 } */
-@media(max-width: 991.5px) {
+/* @media(max-width: 991.5px) {
     .profile {
         margin-top: 20px;
     }
@@ -390,7 +390,7 @@ p{
         margin: 10px 0px;
 
     }
-}
+} */
 
 /* faq */
 summary{
